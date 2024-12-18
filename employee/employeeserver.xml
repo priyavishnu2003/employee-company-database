@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<employees>
+  <employee id="101" department="it">
+    <name>John</name>
+    <position>software engineer</position>
+    <salary>80000</salary>
+    </employee>
+  <employee id="102" department="it">
+    <name>John</name>
+    <position>HR</position>
+    <salary>80000</salary>
+    </employee>
+ 
